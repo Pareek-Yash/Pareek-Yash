@@ -22,7 +22,7 @@ I have always learned from open-source community and glad to give some back to t
 
 ## Projects
 
-- [Image Generation with DCGAN]
+- [Image Generation with DCGAN] (Work in Progress)
 
 
 ## Stats
