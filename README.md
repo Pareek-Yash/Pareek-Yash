@@ -22,7 +22,11 @@ I have always learned from open-source community and glad to give some back to t
 
 ## Projects
 
+- [Image Generation with DCGAN]
 
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepAIYash&theme=tokyonight)
+
+
+[Image Generation with DCGAN]:<https://github.com/deepAIYash/ImageGeneration_with_DCGAN>
