@@ -36,3 +36,7 @@ I have always learned from open-source community and glad to give some back to t
 
 
 [Image Generation with DCGAN]:<https://github.com/pareek-yash/ImageGeneration_with_DCGAN>
+[Optical Character Recognition]:<https://github.com/Pareek-Yash/Optical-Character-Recognition-MNIST>
+[Sentiment Analysis on Twitter Dataset]:<https://github.com/Pareek-Yash/Sentiment-Analysis-using-Twitter-Dataset>
+[Neural Style Transfer]:<https://github.com/Pareek-Yash/Style-Transfer-with-Tensorflow>
+[Portfolio Website]:<https://pareek-yash.github.io/>
