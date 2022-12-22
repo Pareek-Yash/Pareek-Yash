@@ -7,7 +7,7 @@
   <img align="left" alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yash-pareek-29233a194/">
-  <img align="left" alt="Yash's Website" width="25px"  src="https://github.com/deepAIYash/pareek-yash/blob/main/assets/Y.svg" />
+  <img align="left" alt="Yash's Website" width="25px"  src="https://github.com/pareek-yash/pareek-yash/blob/main/assets/Y.svg" />
 </a>
 </br></br></br>
 Hi there evryone, I'm Yash Pareek, Machine Learning Engineer (self-Proclaimed =)) ),
