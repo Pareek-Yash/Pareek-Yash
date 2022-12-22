@@ -23,6 +23,12 @@ I have always learned from open-source community and glad to give some back to t
 ## Projects
 
 - [Image Generation with DCGAN] (Work in Progress)
+- [Optical Character Recognition]
+- [Sentiment Analysis on Twitter Dataset]
+- [Neural Style Transfer] (Work in Progress)
+- [The Stock predictor]
+- [Object Detection WebApp]
+- [Portfolio Website]
 
 
 ## Stats
