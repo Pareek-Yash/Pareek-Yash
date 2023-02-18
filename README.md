@@ -20,14 +20,6 @@ help with any sort of ML problems that I can.
 </br></br>
 Feel free to let me know of any errors or suggestions.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=yash-pareek)
-
-
-
-
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pareek-yash&theme=tokyonight)
-
 
 [Image Generation with DCGAN]:<https://github.com/pareek-yash/ImageGeneration_with_DCGAN>
 [Optical Character Recognition]:<https://github.com/Pareek-Yash/Optical-Character-Recognition-MNIST>
