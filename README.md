@@ -10,10 +10,13 @@
   <img align="left" alt="Yash's Website" width="25px"  src="https://github.com/pareek-yash/pareek-yash/blob/main/assets/Y.svg" />
 </a>
 </br></br></br>
-Hi there evryone, I'm Yash Pareek, Machine Learning Engineer (self-Proclaimed =)) ),
-DeepLearning enthusiast. Developing projects to LEARN.
+Hi there evryone, I'm Yash Pareek, Machine Learning
+Engineer (self-Proclaimed =)), Deep Learning enthusiast.
+Developing projects to LEARN.
 </br></br>
-I have always learned from open-source community, I would love any collaboration and would love to help with any sort of ML problems that I can.
+I have always learned from open-source community,
+I would love any collaboration and would love to
+help with any sort of ML problems that I can.
 </br></br>
 Feel free to let me know of any errors or suggestions.
 
