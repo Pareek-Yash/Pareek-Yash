@@ -1,5 +1,5 @@
 # Yash Pareek
-## _Enthusiast, Explorer, ForEver_
+════════════ Hi 👋👋 I'm Yash ════════════
 
 
 
@@ -11,24 +11,15 @@
 </a>
 </br></br></br>
 Hi there evryone, I'm Yash Pareek, Machine Learning Engineer (self-Proclaimed =)) ),
-DeepLearning enthusiast. I'm developing few cool projects over, which I know have been done earlier I know but still I feel it's not bad to do what has been done before YOURSELF.
+DeepLearning enthusiast. Developing projects to LEARN.
 </br></br>
-I have always learned from open-source community and glad to give some back to the community, I would love any collaboration and would love to help with any sort of ML problems that I can.
+I have always learned from open-source community, I would love any collaboration and would love to help with any sort of ML problems that I can.
 </br></br>
+Feel free to let me know of any errors or suggestions.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=yash-pareek)
 
 
-
-## Projects
-
-- [Image Generation with DCGAN] (Work in Progress)
-- [Optical Character Recognition]
-- [Sentiment Analysis on Twitter Dataset]
-- [Neural Style Transfer] (Work in Progress)
-- [The Stock predictor]
-- [Object Detection WebApp]
-- [Portfolio Website]
 
 
 ## Stats
