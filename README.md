@@ -1,8 +1,10 @@
 # Yash Pareek
+
+
+<img alt="Yash's Banner"  src="https://github.com/Pareek-Yash/Pareek-Yash/blob/main/assets/Banner.png" />
+<p>
 ════════════ Hi 👋👋 I'm Yash ════════════
-<img src=”[https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/Pareek-Yash/Pareek-Yash/blob/main/assets/Banner.png)" alt=”my banner”>
-
-
+</p>p
 <a href="https://www.linkedin.com/in/pareek-yash/">
   <img align="left" alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
